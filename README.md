@@ -1,7 +1,7 @@
 
-<h3 align="center">Hellooo!! I am Orquidea Melon</a> <img src="[https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111](https://slackmojis.com/emojis/2544-nyancat/download)" width="28" /> </h3>
+<h3 align="center">Hellooo!! I am Orquidea Melon</a> <img src="https://slackmojis.com/emojis/2544-nyancat/download" width="28" /> </h3>
 <p align="center">
-<a href="#"><img src="[gwenpool-pink-comic-style-desktop-wallpaper-4k.jpg](https://files.catbox.moe/rz6prs.jpg)" height="100%" width="100%" /></a>
+<a href="#"><img src="https://files.catbox.moe/rz6prs.jpg" height="100%" width="100%" /></a>
 </p>
 
 Hello, My name is Zatiel, 30 years with 5 years of experience.

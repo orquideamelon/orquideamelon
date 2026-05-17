@@ -31,7 +31,7 @@
   </a> 
 
    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://miro.medium.com/1*50R1_jrwum8K-54tZFeefQ.png" alt="CSS" width="35" height="40"/>
+    <img src="https://miro.medium.com/1*50R1_jrwum8K-54tZFeefQ.png" alt="CSS" width="30" height="40"/>
   </a> 
 
   <a href="https://www.mysql.com/" target="_blank">

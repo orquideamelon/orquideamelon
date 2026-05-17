@@ -27,7 +27,7 @@
   </a>
 
   <a href="https://godotengine.org/" target="_blank">
-    <img src="https://godotengine.org/assets/press/logo_large_color_dark.png" alt="Godot" width="40" height="40"/>
+    <img src="https://dl.flathub.org/media/org/godotengine/Godot.desktop/24ee76b4f49c5cf548b5bbdc29fbbee0/icons/128x128@2/org.godotengine.Godot.desktop.png" alt="Godot" width="40" height="40"/>
   </a>
 
   <a href="https://nodejs.org/en" target="_blank">

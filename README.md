@@ -34,7 +34,7 @@
     <img src="https://dl.flathub.org/media/org/godotengine/Godot.desktop/24ee76b4f49c5cf548b5bbdc29fbbee0/icons/128x128@2/org.godotengine.Godot.desktop.png" alt="Godot" width="40" height="40"/>
 
   <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnoirCtiJhhN8Tvo0FJRRd4CInsOXkRX9EbA&s" alt="Visual Studio Code" width="40" height="40"/>
+    <img src="https://static.wikia.nocookie.net/windows/images/1/1c/Visual_Studio_Code_1.35_icon.png/revision/latest/thumbnail/width/360/height/360?cb=20231126223748" alt="Visual Studio Code" width="40" height="40"/>
   </a>
   </a>
 </p>

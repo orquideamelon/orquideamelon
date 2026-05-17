@@ -1,8 +1,4 @@
-
 <h3 align="center">Hellooo!! I am Orquidea Melon</h3>
-<p align="center">
-<a href="#"><img src="https://files.catbox.moe/rz6prs.jpg" height="100%" width="100%" /></a>
-</p>
 
 What I do?
 - Automation

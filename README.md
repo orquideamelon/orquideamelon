@@ -1,9 +1,5 @@
 <h1 align="center">Hellooo!! I'm Orquidea Melon</h1>
 
-<h3 align="center">
-  Automation • Backend • Desktop Apps • Gamedev • Web Development
-</h3>
-
 <p align="center">
   I like building automation tools, desktop apps and games.<br>
   Currently learning more about backend and software architecture.

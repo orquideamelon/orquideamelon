@@ -29,4 +29,8 @@
   <a href="https://godotengine.org/" target="_blank">
     <img src="https://godotengine.org/assets/press/logo_large_color_dark.png" alt="Godot" width="40" height="40"/>
   </a>
+
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png alt="NodeJS" width="40" height="40"/>
+  </a>
 </p>

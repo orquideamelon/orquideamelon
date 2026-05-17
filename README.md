@@ -22,15 +22,15 @@
     <img src="https://www.kernel.org/theme/images/logos/tux.png" alt="Linux" width="40" height="40"/>
   </a>
 
+  <a href="https://nodejs.org/en" target="_blank">
+    <img src="https://www.svgrepo.com/show/354119/nodejs-icon.svg" alt="NodeJS" width="40" height="40"/>
+  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 
   <a href="https://godotengine.org/" target="_blank">
     <img src="https://dl.flathub.org/media/org/godotengine/Godot.desktop/24ee76b4f49c5cf548b5bbdc29fbbee0/icons/128x128@2/org.godotengine.Godot.desktop.png" alt="Godot" width="40" height="40"/>
-  </a>
-
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="NodeJS" width="40" height="40"/>
   </a>
 </p>

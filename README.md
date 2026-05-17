@@ -1,13 +1,13 @@
-<h1 align="center">Hellooo!! I am Orquidea Melon 👋</h1>
+<h1 align="center">Hellooo!! I am Orquidea Melon</h1>
 
-## 🚀 What I do
+¿What I do?
 - Automation
 - Backend
 - Desktop Apps
 - Videogames
 - Web Development
 
-## 🛠️ Tools I use
+¿What tools I use?
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
